@@ -12,7 +12,5 @@
 - [Apis.md](https://github.com/pratham07m/Tech_Tinder/blob/95aee11826b6a3c432e149363507e54c41ca680a/Apis.md)
 
   
-## TODO's : 
-- implementation of messages facility
-- implement UI (Frontend for application)
-  
+## Project URl 
+- [LIVE](http://linkify.work.gd/)
